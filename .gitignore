@@ -23,6 +23,9 @@ bld/
 # Visual Studio 2015 cache/options directory
 .vs/
 
+# IDEA Jetbrains
+.idea
+
 # Visual C++ cache files
 ipch/
 *.aps
